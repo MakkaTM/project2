@@ -47,3 +47,20 @@ padding-left: 30px;
     color: rgb(57, 113, 191);
 
 }
+
+section {
+
+    padding: 100px 200px;
+
+}
+
+.main {
+
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    
+
+}
+
